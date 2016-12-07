@@ -1,9 +1,11 @@
 document.addEventListener('DOMContentLoaded', function(){
+
+      
 	 $( "#r1" ).click(function() {
-  	 	responsiveVoice.speak(#r1.toString(), "French Female");
+      // var yolo = document.querySelector(".il");
+  	 	responsiveVoice.speak($('#r1').text());
 	 });
 
-	  
       $(function() {
         // Dissimulation des réponses
         $('.reponse').hide();

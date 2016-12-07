@@ -1,14 +1,7 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Questionnaire interactif en jQuery</title>
-  </head>
-  
-  <body>
+<body>
     <form>
     <a href="">Tester les réponses</a>
-
+    <p class="il">Salut</p>
     <div class="question">
       <div class="texte">
         <h2>Question 1</h2>
@@ -43,8 +36,3 @@
     </div>
     </form>
   </body>
-</html>
-	<script src="http://code.responsivevoice.org/responsivevoice.js"></script>
-	<script src="main.js" type="text/javascript" charset="utf-8"></script>
-	<script src="jquery-3.1.1.min.js"></script>
-</html>

@@ -16,7 +16,4 @@
 </head>
 <body>
 <header>
-	<nav>
-	<p>Salut</p>
-	</nav>
 </header>

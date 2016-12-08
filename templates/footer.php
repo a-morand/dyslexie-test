@@ -1,4 +1,5 @@
-<footer>	
+<footer>
+    <div>A propos</div>
 </footer>
 <script src="../libs/jquery-3.1.1.min.js"></script>
 <script src="http://code.responsivevoice.org/responsivevoice.js"></script>

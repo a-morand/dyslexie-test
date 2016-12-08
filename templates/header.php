@@ -2,7 +2,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<link rel="stylesheet" href="src/styles/main.css" />
+<link rel="stylesheet" href="../src/styles/main.css" />
+<!-- Important Owl stylesheet -->
+<link rel="stylesheet" href="../libs/owl.carousel.css">
+<!-- Default Theme -->
+<link rel="stylesheet" href="../libs/owl.theme.css">
+<!-- Jquery -->
 <title>Questionnaire interactif en jQuery</title>
 </head>
 <body>

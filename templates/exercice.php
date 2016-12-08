@@ -4,5 +4,7 @@
   <div> Your Content </div>
   <div> Your Content </div>
   <div> Your Content </div>
+  <div> Your Content </div>
+  <div> Your Content </div>
 </div>
 <?php require_once "footer.php"; ?>

@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Questionnaire interactif en jQuery</title>
-  </head>
-</html>
+<?php require "header.php"; ?>
+
+<?php require "footer.php"; ?>

@@ -1,0 +1,19 @@
+.button {
+  background-color: #97ACD5;
+  border-radius: 20px;
+  width: 200px;
+  margin: auto;
+  text-align: center;
+}
+
+.button__text {
+  color: #fff;
+  display: block;
+  padding: 17px 0;
+}
+
+.text {
+  color: #97ACD5;
+  font-size: 25px;
+  text-align: center;
+}

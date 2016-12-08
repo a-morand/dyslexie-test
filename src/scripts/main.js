@@ -1,6 +1,9 @@
 document.addEventListener('DOMContentLoaded', function(){
-
-      
+    $(document).ready(function() {
+ 
+    $("#owl-example").owlCarousel();
+ 
+    });
 // 	 $( "#r1" ).click(function() {
 //       // var yolo = document.querySelector(".il");
 //   	 	responsiveVoice.speak($('#r1').text());

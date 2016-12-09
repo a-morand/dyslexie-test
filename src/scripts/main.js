@@ -4,3 +4,8 @@ document.addEventListener('DOMContentLoaded', function(){
 //   	 	responsiveVoice.speak($('#r1').text());
 // 	 });
 })
+
+function compteur(){
+	for (i = 1; i < 10; i++)
+	
+}
